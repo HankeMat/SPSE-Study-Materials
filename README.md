@@ -14,6 +14,7 @@ Jedná se o **nekontrolovaný repozitář** a mohou se zde nacházet jak gramati
 
 V případě nalezení jakékoli chyby mě prosím kontaktujte přes jeden či více z těchto kanálů:
 
-- 📧 E-mail: [hanke.matej@seznam.cz](mailto:hanke.matej@seznam.cz)  
+- 📧 E-mail #1: [matej.hanke@spsehavirov.cz](mailto:matej.hanke@spsehavirov.cz)  
+- 📧 E-mail #2: [hanke.matej@seznam.cz](mailto:hanke.matej@seznam.cz)  
 - 💬 Discord: `matt_han`
 
